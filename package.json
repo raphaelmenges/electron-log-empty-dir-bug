@@ -1,5 +1,5 @@
 {
-  "name": "vite-electron-builder",
+  "name": "original-app-name",
   "description": "Secure boilerplate for Electron app based on Vite",
   "version": "1.0.2",
   "private": true,
@@ -48,7 +48,8 @@
     "vite": "4.4.9",
     "vitest": "0.34.5",
     "vue": "3.3.4",
-    "vue-tsc": "1.8.13"
+    "vue-tsc": "1.8.13",
+    "electron-log": "5.0.0-beta.29"
   },
   "dependencies": {
     "electron-updater": "6.1.4"
